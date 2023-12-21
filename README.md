@@ -1,9 +1,9 @@
 ## Overview
-**시작하기 좋은 가계부, 스콘**(https://apps.apple.com/kr/app/id1557103038) 개발에 사용한 iOS 이모지를 한국어로 검색하기 위한 키워드 파일입니다.<br/>
+iOS 이모지를 한국어로 검색하기 위한 예제와 키워드 파일입니다.<br/>
 이모지뷰 라이브러리 **ISEmojiView**(https://github.com/isaced/ISEmojiView) 기본 애셋 구조인 plist에 검색 키워드를 추가하여 작성하였습니다.<br/>
 지원 가능한 이모지의 버전별로 파일 구분되어 있습니다.
 
-
+해당 작업의 결과물은 **시작하기 좋은 가계부, 스콘**(https://apps.apple.com/kr/app/id1557103038) 통해서도 확인 가능합니다.
 
 ## Usage Example
 간단하게 테스트해볼 수 있는 예제 프로젝트 포함되어 있습니다.
