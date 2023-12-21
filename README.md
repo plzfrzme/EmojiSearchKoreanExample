@@ -1,13 +1,14 @@
 ## Overview
-iOS 이모지를 한국어로 검색하기 위한 예제와 키워드 파일입니다.<br/>
-이모지뷰 라이브러리 **ISEmojiView**(https://github.com/isaced/ISEmojiView) 기본 애셋 구조인 plist에 검색 키워드를 추가하여 작성하였습니다.<br/>
-지원 가능한 이모지의 버전별로 파일 구분되어 있습니다.
+iOS 이모지를 한국어로 검색하기 위해 작성한 키워드 plist 파일입니다.<br/>
+일상적으로 사용하는 키워드로만 구성했고 OS에서 지원되는 이모지별로 13.0 ~ 16.2까지 파일 구분되어 있습니다.<br/>
+애셋 구조 및 로드 방식은 이모지뷰 라이브러리 [**ISEmojiView**](https://github.com/isaced/ISEmojiView) 를 따라서 작성하였습니다.<br/>
 
-해당 작업의 결과물은 **시작하기 좋은 가계부, 스콘**(https://apps.apple.com/kr/app/id1557103038) 통해서도 확인 가능합니다.
+[**시작하기 좋은 가계부, 스콘**](https://apps.apple.com/kr/app/id1557103038) 을 통해 ISEmojiView와 한국어 검색이 함께 사용된 모습 참고하실 수 있습니다.<br/>
+
 
 ## Usage Example
-간단하게 테스트해볼 수 있는 예제 프로젝트 포함되어 있습니다.
-
+간단한 예제 프로젝트를 통해서 테스트해보세요.<br/><br/>
+<img src="https://github.com/plzfrzme/EmojiSearchKoreanExample/assets/363776/897a266a-592c-48af-abe2-3a5d7f52132f" width="300" height=auto>
 
 
 
