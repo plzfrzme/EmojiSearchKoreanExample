@@ -1,19 +1,19 @@
 ## Overview
-iOS 이모지를 한국어로 검색하기 위해 작성한 키워드 plist 파일입니다.<br/>
-일상적으로 사용하는 키워드로만 구성했고 OS에서 지원되는 이모지별로 13.0 ~ 16.2까지 파일 구분되어 있습니다.<br/>
-애셋 구조 및 로드 방식은 이모지뷰 라이브러리 [**ISEmojiView**](https://github.com/isaced/ISEmojiView) 를 따라서 작성하였습니다.<br/>
 
-[**시작하기 좋은 가계부, 스콘**](https://apps.apple.com/kr/app/id1557103038) 을 통해 ISEmojiView와 한국어 검색이 함께 사용된 모습 참고하실 수 있습니다.<br/>
+This is a keyword plist file created to search for iOS emoji in Korean (the files are included in the Assets folder in the example project).<br/>
+It is composed of only keywords that I use every day, and the files are separated from 13.0 to 16.2 by emoji supported by the OS.<br/>
+The asset structure and loading method is based on the emoji view library [**ISEmojiView**](https://github.com/isaced/ISEmojiView).<br/>
 
+You can see how ISEmojiView and Korean search were utilized together in [**시작하기 좋은 가계부, 스콘**](https://apps.apple.com/kr/app/id1557103038).
 
-## Usage Example
-간단한 예제 프로젝트를 통해서 테스트해보세요.<br/><br/>
+## Example
+Test it out with a simple example project.<br/><br/>
 <img src="https://github.com/plzfrzme/EmojiSearchKoreanExample/assets/363776/897a266a-592c-48af-abe2-3a5d7f52132f" width="300" height=auto>
 
 
 
 
-## iOS Emoji
+## Korean Emoji Library iOS
 #### 스마일리 및 사람 SMILEY & PEOPLE
 
 |ios 13|ios 14|ios 15|ios 16.2|emoji|name|name_en|keyword|keyword_en|
