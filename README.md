@@ -2,7 +2,7 @@
 
 This is a keyword plist file created to search for iOS emoji in Korean (the files are included in the Assets folder in the example project).<br/>
 I used simple everyday words, so feel free to add your own.<br/>
-The files are divided by iOS version because different versions support different emoji.<br/>
+The files are divided by iOS version because different versions support different emoji.(Currently supports up to 16.2.) <br/>
 The asset structure and loading method is based on the excellent [**ISEmojiView**](https://github.com/isaced/ISEmojiView) library.<br/>
 
 You can see how ISEmojiView and Korean search were utilized together in [**시작하기 좋은 가계부, 스콘**](https://apps.apple.com/kr/app/id1557103038).
